@@ -155,9 +155,9 @@ OS
 
 Installed operating systems
 
-![OS](./All/images/pie_chart_bsd/os_name.svg)
+![OS](./images/pie_chart_bsd/os_name.svg)
 
-![OS](./All/images/line_chart_bsd/os_name.svg)
+![OS](./images/line_chart_bsd/os_name.svg)
 
 | Name                | Computers | Percent |
 |---------------------|-----------|---------|
@@ -177,9 +177,9 @@ OS Family
 
 OS without a version
 
-![OS Family](./All/images/pie_chart_bsd/os_family.svg)
+![OS Family](./images/pie_chart_bsd/os_family.svg)
 
-![OS Family](./All/images/line_chart_bsd/os_family.svg)
+![OS Family](./images/line_chart_bsd/os_family.svg)
 
 | Name        | Computers | Percent |
 |-------------|-----------|---------|
@@ -192,9 +192,9 @@ Arch
 
 OS architecture (x86_64, i586, etc.)
 
-![Arch](./All/images/pie_chart_bsd/os_arch.svg)
+![Arch](./images/pie_chart_bsd/os_arch.svg)
 
-![Arch](./All/images/line_chart_bsd/os_arch.svg)
+![Arch](./images/line_chart_bsd/os_arch.svg)
 
 | Name  | Computers | Percent |
 |-------|-----------|---------|
@@ -205,9 +205,9 @@ DE
 
 Desktop Environment
 
-![DE](./All/images/pie_chart_bsd/os_de.svg)
+![DE](./images/pie_chart_bsd/os_de.svg)
 
-![DE](./All/images/line_chart_bsd/os_de.svg)
+![DE](./images/line_chart_bsd/os_de.svg)
 
 | Name         | Computers | Percent |
 |--------------|-----------|---------|
@@ -221,9 +221,9 @@ Display Server
 
 X11 or Wayland
 
-![Display Server](./All/images/pie_chart_bsd/os_display_server.svg)
+![Display Server](./images/pie_chart_bsd/os_display_server.svg)
 
-![Display Server](./All/images/line_chart_bsd/os_display_server.svg)
+![Display Server](./images/line_chart_bsd/os_display_server.svg)
 
 | Name    | Computers | Percent |
 |---------|-----------|---------|
@@ -235,9 +235,9 @@ Display Manager
 
 SDDM, LightDM, etc.
 
-![Display Manager](./All/images/pie_chart_bsd/os_display_manager.svg)
+![Display Manager](./images/pie_chart_bsd/os_display_manager.svg)
 
-![Display Manager](./All/images/line_chart_bsd/os_display_manager.svg)
+![Display Manager](./images/line_chart_bsd/os_display_manager.svg)
 
 | Name    | Computers | Percent |
 |---------|-----------|---------|
@@ -251,9 +251,9 @@ OS Lang
 
 Language
 
-![OS Lang](./All/images/pie_chart_bsd/os_lang.svg)
+![OS Lang](./images/pie_chart_bsd/os_lang.svg)
 
-![OS Lang](./All/images/line_chart_bsd/os_lang.svg)
+![OS Lang](./images/line_chart_bsd/os_lang.svg)
 
 | Lang    | Computers | Percent |
 |---------|-----------|---------|
@@ -266,9 +266,9 @@ Boot Mode
 
 EFI or BIOS
 
-![Boot Mode](./All/images/pie_chart_bsd/os_boot_mode.svg)
+![Boot Mode](./images/pie_chart_bsd/os_boot_mode.svg)
 
-![Boot Mode](./All/images/line_chart_bsd/os_boot_mode.svg)
+![Boot Mode](./images/line_chart_bsd/os_boot_mode.svg)
 
 | Mode | Computers | Percent |
 |------|-----------|---------|
@@ -280,9 +280,9 @@ Filesystem
 
 Type of filesystem
 
-![Filesystem](./All/images/pie_chart_bsd/os_filesystem.svg)
+![Filesystem](./images/pie_chart_bsd/os_filesystem.svg)
 
-![Filesystem](./All/images/line_chart_bsd/os_filesystem.svg)
+![Filesystem](./images/line_chart_bsd/os_filesystem.svg)
 
 | Type   | Computers | Percent |
 |--------|-----------|---------|
@@ -295,9 +295,9 @@ Part. scheme
 
 Scheme of partitioning
 
-![Part. scheme](./All/images/pie_chart_bsd/os_part_scheme.svg)
+![Part. scheme](./images/pie_chart_bsd/os_part_scheme.svg)
 
-![Part. scheme](./All/images/line_chart_bsd/os_part_scheme.svg)
+![Part. scheme](./images/line_chart_bsd/os_part_scheme.svg)
 
 | Type | Computers | Percent |
 |------|-----------|---------|
@@ -312,9 +312,9 @@ Vendor
 
 Motherboard manufacturer
 
-![Vendor](./All/images/pie_chart_bsd/node_vendor.svg)
+![Vendor](./images/pie_chart_bsd/node_vendor.svg)
 
-![Vendor](./All/images/line_chart_bsd/node_vendor.svg)
+![Vendor](./images/line_chart_bsd/node_vendor.svg)
 
 | Name                             | Computers | Percent |
 |----------------------------------|-----------|---------|
@@ -329,9 +329,9 @@ Model
 
 Motherboard model
 
-![Model](./All/images/pie_chart_bsd/node_model.svg)
+![Model](./images/pie_chart_bsd/node_model.svg)
 
-![Model](./All/images/line_chart_bsd/node_model.svg)
+![Model](./images/line_chart_bsd/node_model.svg)
 
 | Name                                                        | Computers | Percent |
 |-------------------------------------------------------------|-----------|---------|
@@ -348,9 +348,9 @@ Model Family
 
 Motherboard model prefix
 
-![Model Family](./All/images/pie_chart_bsd/node_model_family.svg)
+![Model Family](./images/pie_chart_bsd/node_model_family.svg)
 
-![Model Family](./All/images/line_chart_bsd/node_model_family.svg)
+![Model Family](./images/line_chart_bsd/node_model_family.svg)
 
 | Name                                       | Computers | Percent |
 |--------------------------------------------|-----------|---------|
@@ -366,9 +366,9 @@ MFG Year
 
 Motherboard manufacture year
 
-![MFG Year](./All/images/pie_chart_bsd/node_year.svg)
+![MFG Year](./images/pie_chart_bsd/node_year.svg)
 
-![MFG Year](./All/images/line_chart_bsd/node_year.svg)
+![MFG Year](./images/line_chart_bsd/node_year.svg)
 
 | Year    | Computers | Percent |
 |---------|-----------|---------|
@@ -387,9 +387,9 @@ Form Factor
 
 Physical design of the computer
 
-![Form Factor](./All/images/pie_chart_bsd/node_formfactor.svg)
+![Form Factor](./images/pie_chart_bsd/node_formfactor.svg)
 
-![Form Factor](./All/images/line_chart_bsd/node_formfactor.svg)
+![Form Factor](./images/line_chart_bsd/node_formfactor.svg)
 
 | Name            | Computers | Percent |
 |-----------------|-----------|---------|
@@ -400,9 +400,9 @@ Coreboot
 
 Have coreboot on board
 
-![Coreboot](./All/images/pie_chart_bsd/node_coreboot.svg)
+![Coreboot](./images/pie_chart_bsd/node_coreboot.svg)
 
-![Coreboot](./All/images/line_chart_bsd/node_coreboot.svg)
+![Coreboot](./images/line_chart_bsd/node_coreboot.svg)
 
 | Used | Computers | Percent |
 |------|-----------|---------|
@@ -413,9 +413,9 @@ RAM Size
 
 Total RAM memory
 
-![RAM Size](./All/images/pie_chart_bsd/node_ram_total.svg)
+![RAM Size](./images/pie_chart_bsd/node_ram_total.svg)
 
-![RAM Size](./All/images/line_chart_bsd/node_ram_total.svg)
+![RAM Size](./images/line_chart_bsd/node_ram_total.svg)
 
 | Size in GB | Computers | Percent |
 |------------|-----------|---------|
@@ -432,9 +432,9 @@ RAM Used
 
 Used RAM memory
 
-![RAM Used](./All/images/pie_chart_bsd/node_ram_used.svg)
+![RAM Used](./images/pie_chart_bsd/node_ram_used.svg)
 
-![RAM Used](./All/images/line_chart_bsd/node_ram_used.svg)
+![RAM Used](./images/line_chart_bsd/node_ram_used.svg)
 
 | Used GB  | Computers | Percent |
 |----------|-----------|---------|
@@ -446,9 +446,9 @@ Total Drives
 
 Number of drives on board
 
-![Total Drives](./All/images/pie_chart_bsd/node_total_drives.svg)
+![Total Drives](./images/pie_chart_bsd/node_total_drives.svg)
 
-![Total Drives](./All/images/line_chart_bsd/node_total_drives.svg)
+![Total Drives](./images/line_chart_bsd/node_total_drives.svg)
 
 | Drives | Computers | Percent |
 |--------|-----------|---------|
@@ -461,9 +461,9 @@ Has CD-ROM
 
 Has CD-ROM on board
 
-![Has CD-ROM](./All/images/pie_chart_bsd/node_has_cdrom.svg)
+![Has CD-ROM](./images/pie_chart_bsd/node_has_cdrom.svg)
 
-![Has CD-ROM](./All/images/line_chart_bsd/node_has_cdrom.svg)
+![Has CD-ROM](./images/line_chart_bsd/node_has_cdrom.svg)
 
 | Presented | Computers | Percent |
 |-----------|-----------|---------|
@@ -475,9 +475,9 @@ Has Ethernet
 
 Has Ethernet on board
 
-![Has Ethernet](./All/images/pie_chart_bsd/node_has_ethernet.svg)
+![Has Ethernet](./images/pie_chart_bsd/node_has_ethernet.svg)
 
-![Has Ethernet](./All/images/line_chart_bsd/node_has_ethernet.svg)
+![Has Ethernet](./images/line_chart_bsd/node_has_ethernet.svg)
 
 | Presented | Computers | Percent |
 |-----------|-----------|---------|
@@ -489,9 +489,9 @@ Has WiFi
 
 Has WiFi module
 
-![Has WiFi](./All/images/pie_chart_bsd/node_has_wifi.svg)
+![Has WiFi](./images/pie_chart_bsd/node_has_wifi.svg)
 
-![Has WiFi](./All/images/line_chart_bsd/node_has_wifi.svg)
+![Has WiFi](./images/line_chart_bsd/node_has_wifi.svg)
 
 | Presented | Computers | Percent |
 |-----------|-----------|---------|
@@ -503,9 +503,9 @@ Has Bluetooth
 
 Has Bluetooth module
 
-![Has Bluetooth](./All/images/pie_chart_bsd/node_has_bluetooth.svg)
+![Has Bluetooth](./images/pie_chart_bsd/node_has_bluetooth.svg)
 
-![Has Bluetooth](./All/images/line_chart_bsd/node_has_bluetooth.svg)
+![Has Bluetooth](./images/line_chart_bsd/node_has_bluetooth.svg)
 
 | Presented | Computers | Percent |
 |-----------|-----------|---------|
@@ -520,9 +520,9 @@ Country
 
 Geographic location (country)
 
-![Country](./All/images/pie_chart_bsd/node_location.svg)
+![Country](./images/pie_chart_bsd/node_location.svg)
 
-![Country](./All/images/line_chart_bsd/node_location.svg)
+![Country](./images/line_chart_bsd/node_location.svg)
 
 | Country     | Computers | Percent |
 |-------------|-----------|---------|
@@ -561,9 +561,9 @@ City
 
 Geographic location (city)
 
-![City](./All/images/pie_chart_bsd/node_city.svg)
+![City](./images/pie_chart_bsd/node_city.svg)
 
-![City](./All/images/line_chart_bsd/node_city.svg)
+![City](./images/line_chart_bsd/node_city.svg)
 
 | City                    | Computers | Percent |
 |-------------------------|-----------|---------|
@@ -636,9 +636,9 @@ Drive Vendor
 
 Hard drive vendors
 
-![Drive Vendor](./All/images/pie_chart_bsd/drive_vendor.svg)
+![Drive Vendor](./images/pie_chart_bsd/drive_vendor.svg)
 
-![Drive Vendor](./All/images/line_chart_bsd/drive_vendor.svg)
+![Drive Vendor](./images/line_chart_bsd/drive_vendor.svg)
 
 | Vendor | Computers | Drives | Percent |
 |--------|-----------|--------|---------|
@@ -652,9 +652,9 @@ Drive Model
 
 Hard drive models
 
-![Drive Model](./All/images/pie_chart_bsd/drive_model.svg)
+![Drive Model](./images/pie_chart_bsd/drive_model.svg)
 
-![Drive Model](./All/images/line_chart_bsd/drive_model.svg)
+![Drive Model](./images/line_chart_bsd/drive_model.svg)
 
 | Model               | Computers | Percent |
 |---------------------|-----------|---------|
@@ -669,9 +669,9 @@ HDD Vendor
 
 Hard disk drive vendors
 
-![HDD Vendor](./All/images/pie_chart_bsd/drive_hdd_vendor.svg)
+![HDD Vendor](./images/pie_chart_bsd/drive_hdd_vendor.svg)
 
-![HDD Vendor](./All/images/line_chart_bsd/drive_hdd_vendor.svg)
+![HDD Vendor](./images/line_chart_bsd/drive_hdd_vendor.svg)
 
 | Vendor | Computers | Drives | Percent |
 |--------|-----------|--------|---------|
@@ -692,9 +692,9 @@ Drive Kind
 
 HDD or SSD
 
-![Drive Kind](./All/images/pie_chart_bsd/drive_kind.svg)
+![Drive Kind](./images/pie_chart_bsd/drive_kind.svg)
 
-![Drive Kind](./All/images/line_chart_bsd/drive_kind.svg)
+![Drive Kind](./images/line_chart_bsd/drive_kind.svg)
 
 | Kind | Computers | Drives | Percent |
 |------|-----------|--------|---------|
@@ -705,9 +705,9 @@ Drive Connector
 
 SATA, SAS, NVMe, etc.
 
-![Drive Connector](./All/images/pie_chart_bsd/drive_bus.svg)
+![Drive Connector](./images/pie_chart_bsd/drive_bus.svg)
 
-![Drive Connector](./All/images/line_chart_bsd/drive_bus.svg)
+![Drive Connector](./images/line_chart_bsd/drive_bus.svg)
 
 | Type | Computers | Drives | Percent |
 |------|-----------|--------|---------|
@@ -718,9 +718,9 @@ Drive Size
 
 Size of hard drive
 
-![Drive Size](./All/images/pie_chart_bsd/drive_size.svg)
+![Drive Size](./images/pie_chart_bsd/drive_size.svg)
 
-![Drive Size](./All/images/line_chart_bsd/drive_size.svg)
+![Drive Size](./images/line_chart_bsd/drive_size.svg)
 
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
@@ -731,9 +731,9 @@ Space Total
 
 Amount of disk space available on the file system
 
-![Space Total](./All/images/pie_chart_bsd/drive_space_total.svg)
+![Space Total](./images/pie_chart_bsd/drive_space_total.svg)
 
-![Space Total](./All/images/line_chart_bsd/drive_space_total.svg)
+![Space Total](./images/line_chart_bsd/drive_space_total.svg)
 
 | Size in GB | Computers | Percent |
 |------------|-----------|---------|
@@ -747,9 +747,9 @@ Space Used
 
 Amount of used disk space
 
-![Space Used](./All/images/pie_chart_bsd/drive_space_used.svg)
+![Space Used](./images/pie_chart_bsd/drive_space_used.svg)
 
-![Space Used](./All/images/line_chart_bsd/drive_space_used.svg)
+![Space Used](./images/line_chart_bsd/drive_space_used.svg)
 
 | Used GB | Computers | Percent |
 |---------|-----------|---------|
@@ -803,9 +803,9 @@ Drive Status
 
 Number of failed and malfunc. drives
 
-![Drive Status](./All/images/pie_chart_bsd/drive_status.svg)
+![Drive Status](./images/pie_chart_bsd/drive_status.svg)
 
-![Drive Status](./All/images/line_chart_bsd/drive_status.svg)
+![Drive Status](./images/line_chart_bsd/drive_status.svg)
 
 | Status   | Computers | Drives | Percent |
 |----------|-----------|--------|---------|
@@ -819,9 +819,9 @@ Storage Vendor
 
 Storage controller vendors
 
-![Storage Vendor](./All/images/pie_chart_bsd/storage_vendor.svg)
+![Storage Vendor](./images/pie_chart_bsd/storage_vendor.svg)
 
-![Storage Vendor](./All/images/line_chart_bsd/storage_vendor.svg)
+![Storage Vendor](./images/line_chart_bsd/storage_vendor.svg)
 
 | Vendor                    | Computers | Percent |
 |---------------------------|-----------|---------|
@@ -836,9 +836,9 @@ Storage Model
 
 Storage controller models
 
-![Storage Model](./All/images/pie_chart_bsd/storage_model.svg)
+![Storage Model](./images/pie_chart_bsd/storage_model.svg)
 
-![Storage Model](./All/images/line_chart_bsd/storage_model.svg)
+![Storage Model](./images/line_chart_bsd/storage_model.svg)
 
 | Model                                                                 | Computers | Percent |
 |-----------------------------------------------------------------------|-----------|---------|
@@ -861,9 +861,9 @@ Storage Kind
 
 Kind of storage controller (IDE, SATA, NVMe, SAS, ...)
 
-![Storage Kind](./All/images/pie_chart_bsd/storage_kind.svg)
+![Storage Kind](./images/pie_chart_bsd/storage_kind.svg)
 
-![Storage Kind](./All/images/line_chart_bsd/storage_kind.svg)
+![Storage Kind](./images/line_chart_bsd/storage_kind.svg)
 
 | Kind | Computers | Percent |
 |------|-----------|---------|
@@ -881,9 +881,9 @@ CPU Vendor
 
 Processor vendors
 
-![CPU Vendor](./All/images/pie_chart_bsd/cpu_vendor.svg)
+![CPU Vendor](./images/pie_chart_bsd/cpu_vendor.svg)
 
-![CPU Vendor](./All/images/line_chart_bsd/cpu_vendor.svg)
+![CPU Vendor](./images/line_chart_bsd/cpu_vendor.svg)
 
 | Vendor  | Computers | Percent |
 |---------|-----------|---------|
@@ -897,9 +897,9 @@ CPU Model
 
 Processor models
 
-![CPU Model](./All/images/pie_chart_bsd/cpu_model.svg)
+![CPU Model](./images/pie_chart_bsd/cpu_model.svg)
 
-![CPU Model](./All/images/line_chart_bsd/cpu_model.svg)
+![CPU Model](./images/line_chart_bsd/cpu_model.svg)
 
 | Model                                          | Computers | Percent |
 |------------------------------------------------|-----------|---------|
@@ -963,9 +963,9 @@ CPU Model Family
 
 Processor model prefix
 
-![CPU Model Family](./All/images/pie_chart_bsd/cpu_family.svg)
+![CPU Model Family](./images/pie_chart_bsd/cpu_family.svg)
 
-![CPU Model Family](./All/images/line_chart_bsd/cpu_family.svg)
+![CPU Model Family](./images/line_chart_bsd/cpu_family.svg)
 
 | Model             | Computers | Percent |
 |-------------------|-----------|---------|
@@ -988,9 +988,9 @@ CPU Cores
 
 Number of processor cores
 
-![CPU Cores](./All/images/pie_chart_bsd/cpu_cores.svg)
+![CPU Cores](./images/pie_chart_bsd/cpu_cores.svg)
 
-![CPU Cores](./All/images/line_chart_bsd/cpu_cores.svg)
+![CPU Cores](./images/line_chart_bsd/cpu_cores.svg)
 
 | Number | Computers | Percent |
 |--------|-----------|---------|
@@ -1007,9 +1007,9 @@ CPU Sockets
 
 Number of sockets
 
-![CPU Sockets](./All/images/pie_chart_bsd/cpu_sockets.svg)
+![CPU Sockets](./images/pie_chart_bsd/cpu_sockets.svg)
 
-![CPU Sockets](./All/images/line_chart_bsd/cpu_sockets.svg)
+![CPU Sockets](./images/line_chart_bsd/cpu_sockets.svg)
 
 | Number | Computers | Percent |
 |--------|-----------|---------|
@@ -1025,9 +1025,9 @@ CPU Threads
 
 Threads per core (Hyper-Threading)
 
-![CPU Threads](./All/images/pie_chart_bsd/cpu_threads.svg)
+![CPU Threads](./images/pie_chart_bsd/cpu_threads.svg)
 
-![CPU Threads](./All/images/line_chart_bsd/cpu_threads.svg)
+![CPU Threads](./images/line_chart_bsd/cpu_threads.svg)
 
 | Number | Computers | Percent |
 |--------|-----------|---------|
@@ -1039,9 +1039,9 @@ CPU Microarch
 
 Microarchitecture
 
-![CPU Microarch](./All/images/pie_chart_bsd/cpu_microarch.svg)
+![CPU Microarch](./images/pie_chart_bsd/cpu_microarch.svg)
 
-![CPU Microarch](./All/images/line_chart_bsd/cpu_microarch.svg)
+![CPU Microarch](./images/line_chart_bsd/cpu_microarch.svg)
 
 | Name          | Computers | Percent |
 |---------------|-----------|---------|
@@ -1074,9 +1074,9 @@ GPU Vendor
 
 Vendors of graphics cards
 
-![GPU Vendor](./All/images/pie_chart_bsd/gpu_vendor.svg)
+![GPU Vendor](./images/pie_chart_bsd/gpu_vendor.svg)
 
-![GPU Vendor](./All/images/line_chart_bsd/gpu_vendor.svg)
+![GPU Vendor](./images/line_chart_bsd/gpu_vendor.svg)
 
 | Vendor                 | Computers | Percent |
 |------------------------|-----------|---------|
@@ -1093,9 +1093,9 @@ GPU Model
 
 Graphics card models
 
-![GPU Model](./All/images/pie_chart_bsd/gpu_model.svg)
+![GPU Model](./images/pie_chart_bsd/gpu_model.svg)
 
-![GPU Model](./All/images/line_chart_bsd/gpu_model.svg)
+![GPU Model](./images/line_chart_bsd/gpu_model.svg)
 
 | Model                                              | Computers | Percent |
 |----------------------------------------------------|-----------|---------|
@@ -1113,9 +1113,9 @@ GPU Combo
 
 Combinations of graphics cards
 
-![GPU Combo](./All/images/pie_chart_bsd/gpu_combo.svg)
+![GPU Combo](./images/pie_chart_bsd/gpu_combo.svg)
 
-![GPU Combo](./All/images/line_chart_bsd/gpu_combo.svg)
+![GPU Combo](./images/line_chart_bsd/gpu_combo.svg)
 
 | Name                       | Computers | Percent |
 |----------------------------|-----------|---------|
@@ -1132,9 +1132,9 @@ GPU Driver
 
 Free vs proprietary
 
-![GPU Driver](./All/images/pie_chart_bsd/gpu_driver.svg)
+![GPU Driver](./images/pie_chart_bsd/gpu_driver.svg)
 
-![GPU Driver](./All/images/line_chart_bsd/gpu_driver.svg)
+![GPU Driver](./images/line_chart_bsd/gpu_driver.svg)
 
 | Driver  | Computers | Percent |
 |---------|-----------|---------|
@@ -1146,9 +1146,9 @@ GPU Memory
 
 Total video memory
 
-![GPU Memory](./All/images/pie_chart_bsd/gpu_memory.svg)
+![GPU Memory](./images/pie_chart_bsd/gpu_memory.svg)
 
-![GPU Memory](./All/images/line_chart_bsd/gpu_memory.svg)
+![GPU Memory](./images/line_chart_bsd/gpu_memory.svg)
 
 | Size in GB | Computers | Percent |
 |------------|-----------|---------|
@@ -1162,9 +1162,9 @@ Monitor Vendor
 
 Monitor vendors
 
-![Monitor Vendor](./All/images/pie_chart_bsd/mon_vendor.svg)
+![Monitor Vendor](./images/pie_chart_bsd/mon_vendor.svg)
 
-![Monitor Vendor](./All/images/line_chart_bsd/mon_vendor.svg)
+![Monitor Vendor](./images/line_chart_bsd/mon_vendor.svg)
 
 | Vendor | Computers | Percent |
 |--------|-----------|---------|
@@ -1175,9 +1175,9 @@ Monitor Model
 
 Monitor models
 
-![Monitor Model](./All/images/pie_chart_bsd/mon_model.svg)
+![Monitor Model](./images/pie_chart_bsd/mon_model.svg)
 
-![Monitor Model](./All/images/line_chart_bsd/mon_model.svg)
+![Monitor Model](./images/line_chart_bsd/mon_model.svg)
 
 | Model                                            | Computers | Percent |
 |--------------------------------------------------|-----------|---------|
@@ -1188,9 +1188,9 @@ Monitor Resolution
 
 Monitor screen resolution
 
-![Monitor Resolution](./All/images/pie_chart_bsd/mon_resolution.svg)
+![Monitor Resolution](./images/pie_chart_bsd/mon_resolution.svg)
 
-![Monitor Resolution](./All/images/line_chart_bsd/mon_resolution.svg)
+![Monitor Resolution](./images/line_chart_bsd/mon_resolution.svg)
 
 | Resolution | Computers | Percent |
 |------------|-----------|---------|
@@ -1201,9 +1201,9 @@ Monitor Diagonal
 
 Diagonal size in inches
 
-![Monitor Diagonal](./All/images/pie_chart_bsd/mon_diagonal.svg)
+![Monitor Diagonal](./images/pie_chart_bsd/mon_diagonal.svg)
 
-![Monitor Diagonal](./All/images/line_chart_bsd/mon_diagonal.svg)
+![Monitor Diagonal](./images/line_chart_bsd/mon_diagonal.svg)
 
 | Inches | Computers | Percent |
 |--------|-----------|---------|
@@ -1214,9 +1214,9 @@ Monitor Width
 
 Physical width
 
-![Monitor Width](./All/images/pie_chart_bsd/mon_width.svg)
+![Monitor Width](./images/pie_chart_bsd/mon_width.svg)
 
-![Monitor Width](./All/images/line_chart_bsd/mon_width.svg)
+![Monitor Width](./images/line_chart_bsd/mon_width.svg)
 
 | Width in mm | Computers | Percent |
 |-------------|-----------|---------|
@@ -1227,9 +1227,9 @@ Aspect Ratio
 
 Proportional relationship between the width and the height
 
-![Aspect Ratio](./All/images/pie_chart_bsd/mon_ratio.svg)
+![Aspect Ratio](./images/pie_chart_bsd/mon_ratio.svg)
 
-![Aspect Ratio](./All/images/line_chart_bsd/mon_ratio.svg)
+![Aspect Ratio](./images/line_chart_bsd/mon_ratio.svg)
 
 | Ratio | Computers | Percent |
 |-------|-----------|---------|
@@ -1240,9 +1240,9 @@ Monitor Area
 
 Area in inch²
 
-![Monitor Area](./All/images/pie_chart_bsd/mon_area.svg)
+![Monitor Area](./images/pie_chart_bsd/mon_area.svg)
 
-![Monitor Area](./All/images/line_chart_bsd/mon_area.svg)
+![Monitor Area](./images/line_chart_bsd/mon_area.svg)
 
 | Area in inch² | Computers | Percent |
 |----------------|-----------|---------|
@@ -1253,9 +1253,9 @@ Pixel Density
 
 Pixels per inch
 
-![Pixel Density](./All/images/pie_chart_bsd/mon_density.svg)
+![Pixel Density](./images/pie_chart_bsd/mon_density.svg)
 
-![Pixel Density](./All/images/line_chart_bsd/mon_density.svg)
+![Pixel Density](./images/line_chart_bsd/mon_density.svg)
 
 | Density | Computers | Percent |
 |---------|-----------|---------|
@@ -1266,9 +1266,9 @@ Multiple Monitors
 
 Total monitors connected
 
-![Multiple Monitors](./All/images/pie_chart_bsd/mon_total.svg)
+![Multiple Monitors](./images/pie_chart_bsd/mon_total.svg)
 
-![Multiple Monitors](./All/images/line_chart_bsd/mon_total.svg)
+![Multiple Monitors](./images/line_chart_bsd/mon_total.svg)
 
 | Total | Computers | Percent |
 |-------|-----------|---------|
@@ -1283,9 +1283,9 @@ Net Controller Vendor
 
 Controller vendors
 
-![Net Controller Vendor](./All/images/pie_chart_bsd/net_vendor.svg)
+![Net Controller Vendor](./images/pie_chart_bsd/net_vendor.svg)
 
-![Net Controller Vendor](./All/images/line_chart_bsd/net_vendor.svg)
+![Net Controller Vendor](./images/line_chart_bsd/net_vendor.svg)
 
 | Vendor                | Computers | Percent |
 |-----------------------|-----------|---------|
@@ -1300,9 +1300,9 @@ Net Controller Model
 
 Controller models
 
-![Net Controller Model](./All/images/pie_chart_bsd/net_model.svg)
+![Net Controller Model](./images/pie_chart_bsd/net_model.svg)
 
-![Net Controller Model](./All/images/line_chart_bsd/net_model.svg)
+![Net Controller Model](./images/line_chart_bsd/net_model.svg)
 
 | Model                                                    | Computers | Percent |
 |----------------------------------------------------------|-----------|---------|
@@ -1325,9 +1325,9 @@ Wireless Vendor
 
 Wireless vendors
 
-![Wireless Vendor](./All/images/pie_chart_bsd/net_wireless_vendor.svg)
+![Wireless Vendor](./images/pie_chart_bsd/net_wireless_vendor.svg)
 
-![Wireless Vendor](./All/images/line_chart_bsd/net_wireless_vendor.svg)
+![Wireless Vendor](./images/line_chart_bsd/net_wireless_vendor.svg)
 
 | Vendor                | Computers | Percent |
 |-----------------------|-----------|---------|
@@ -1339,9 +1339,9 @@ Wireless Model
 
 Wireless models
 
-![Wireless Model](./All/images/pie_chart_bsd/net_wireless_model.svg)
+![Wireless Model](./images/pie_chart_bsd/net_wireless_model.svg)
 
-![Wireless Model](./All/images/line_chart_bsd/net_wireless_model.svg)
+![Wireless Model](./images/line_chart_bsd/net_wireless_model.svg)
 
 | Model                                                    | Computers | Percent |
 |----------------------------------------------------------|-----------|---------|
@@ -1353,9 +1353,9 @@ Ethernet Vendor
 
 Ethernet vendors
 
-![Ethernet Vendor](./All/images/pie_chart_bsd/net_ethernet_vendor.svg)
+![Ethernet Vendor](./images/pie_chart_bsd/net_ethernet_vendor.svg)
 
-![Ethernet Vendor](./All/images/line_chart_bsd/net_ethernet_vendor.svg)
+![Ethernet Vendor](./images/line_chart_bsd/net_ethernet_vendor.svg)
 
 | Vendor                | Computers | Percent |
 |-----------------------|-----------|---------|
@@ -1368,9 +1368,9 @@ Ethernet Model
 
 Ethernet models
 
-![Ethernet Model](./All/images/pie_chart_bsd/net_ethernet_model.svg)
+![Ethernet Model](./images/pie_chart_bsd/net_ethernet_model.svg)
 
-![Ethernet Model](./All/images/line_chart_bsd/net_ethernet_model.svg)
+![Ethernet Model](./images/line_chart_bsd/net_ethernet_model.svg)
 
 | Model                                                 | Computers | Percent |
 |-------------------------------------------------------|-----------|---------|
@@ -1389,9 +1389,9 @@ Net Controller Kind
 
 Ethernet, WiFi or modem
 
-![Net Controller Kind](./All/images/pie_chart_bsd/net_kind.svg)
+![Net Controller Kind](./images/pie_chart_bsd/net_kind.svg)
 
-![Net Controller Kind](./All/images/line_chart_bsd/net_kind.svg)
+![Net Controller Kind](./images/line_chart_bsd/net_kind.svg)
 
 | Kind     | Computers | Percent |
 |----------|-----------|---------|
@@ -1404,9 +1404,9 @@ Used Controller
 
 Currently used network controller
 
-![Used Controller](./All/images/pie_chart_bsd/net_used.svg)
+![Used Controller](./images/pie_chart_bsd/net_used.svg)
 
-![Used Controller](./All/images/line_chart_bsd/net_used.svg)
+![Used Controller](./images/line_chart_bsd/net_used.svg)
 
 | Kind     | Computers | Percent |
 |----------|-----------|---------|
@@ -1418,9 +1418,9 @@ NICs
 
 Total network controllers on board
 
-![NICs](./All/images/pie_chart_bsd/net_nics.svg)
+![NICs](./images/pie_chart_bsd/net_nics.svg)
 
-![NICs](./All/images/line_chart_bsd/net_nics.svg)
+![NICs](./images/line_chart_bsd/net_nics.svg)
 
 | Total | Computers | Percent |
 |-------|-----------|---------|
@@ -1436,9 +1436,9 @@ IPv6
 
 IPv6 vs IPv4
 
-![IPv6](./All/images/pie_chart_bsd/node_ipv6.svg)
+![IPv6](./images/pie_chart_bsd/node_ipv6.svg)
 
-![IPv6](./All/images/line_chart_bsd/node_ipv6.svg)
+![IPv6](./images/line_chart_bsd/node_ipv6.svg)
 
 | Used | Computers | Percent |
 |------|-----------|---------|
@@ -1453,9 +1453,9 @@ Bluetooth Vendor
 
 Controller vendors
 
-![Bluetooth Vendor](./All/images/pie_chart_bsd/bt_vendor.svg)
+![Bluetooth Vendor](./images/pie_chart_bsd/bt_vendor.svg)
 
-![Bluetooth Vendor](./All/images/line_chart_bsd/bt_vendor.svg)
+![Bluetooth Vendor](./images/line_chart_bsd/bt_vendor.svg)
 
 | Vendor | Computers | Percent |
 |--------|-----------|---------|
@@ -1466,9 +1466,9 @@ Bluetooth Model
 
 Controller models
 
-![Bluetooth Model](./All/images/pie_chart_bsd/bt_model.svg)
+![Bluetooth Model](./images/pie_chart_bsd/bt_model.svg)
 
-![Bluetooth Model](./All/images/line_chart_bsd/bt_model.svg)
+![Bluetooth Model](./images/line_chart_bsd/bt_model.svg)
 
 | Model                            | Computers | Percent |
 |----------------------------------|-----------|---------|
@@ -1482,9 +1482,9 @@ Sound Vendor
 
 Sound card vendors
 
-![Sound Vendor](./All/images/pie_chart_bsd/snd_vendor.svg)
+![Sound Vendor](./images/pie_chart_bsd/snd_vendor.svg)
 
-![Sound Vendor](./All/images/line_chart_bsd/snd_vendor.svg)
+![Sound Vendor](./images/line_chart_bsd/snd_vendor.svg)
 
 | Vendor  | Computers | Percent |
 |---------|-----------|---------|
@@ -1496,9 +1496,9 @@ Sound Model
 
 Sound card models
 
-![Sound Model](./All/images/pie_chart_bsd/snd_model.svg)
+![Sound Model](./images/pie_chart_bsd/snd_model.svg)
 
-![Sound Model](./All/images/line_chart_bsd/snd_model.svg)
+![Sound Model](./images/line_chart_bsd/snd_model.svg)
 
 | Model                                                                      | Computers | Percent |
 |----------------------------------------------------------------------------|-----------|---------|
@@ -1517,9 +1517,9 @@ Memory Vendor
 
 Memory module vendors
 
-![Memory Vendor](./All/images/pie_chart_bsd/memory_vendor.svg)
+![Memory Vendor](./images/pie_chart_bsd/memory_vendor.svg)
 
-![Memory Vendor](./All/images/line_chart_bsd/memory_vendor.svg)
+![Memory Vendor](./images/line_chart_bsd/memory_vendor.svg)
 
 | Vendor             | Computers | Percent |
 |--------------------|-----------|---------|
@@ -1534,9 +1534,9 @@ Memory Model
 
 Memory module models
 
-![Memory Model](./All/images/pie_chart_bsd/memory_model.svg)
+![Memory Model](./images/pie_chart_bsd/memory_model.svg)
 
-![Memory Model](./All/images/line_chart_bsd/memory_model.svg)
+![Memory Model](./images/line_chart_bsd/memory_model.svg)
 
 | Model                                            | Computers | Percent |
 |--------------------------------------------------|-----------|---------|
@@ -1574,9 +1574,9 @@ Memory Kind
 
 Memory module kinds
 
-![Memory Kind](./All/images/pie_chart_bsd/memory_kind.svg)
+![Memory Kind](./images/pie_chart_bsd/memory_kind.svg)
 
-![Memory Kind](./All/images/line_chart_bsd/memory_kind.svg)
+![Memory Kind](./images/line_chart_bsd/memory_kind.svg)
 
 | Kind    | Computers | Percent |
 |---------|-----------|---------|
@@ -1589,9 +1589,9 @@ Memory Form Factor
 
 Physical design of the memory module
 
-![Memory Form Factor](./All/images/pie_chart_bsd/memory_formfactor.svg)
+![Memory Form Factor](./images/pie_chart_bsd/memory_formfactor.svg)
 
-![Memory Form Factor](./All/images/line_chart_bsd/memory_formfactor.svg)
+![Memory Form Factor](./images/line_chart_bsd/memory_formfactor.svg)
 
 | Name    | Computers | Percent |
 |---------|-----------|---------|
@@ -1604,9 +1604,9 @@ Memory Size
 
 Memory module size
 
-![Memory Size](./All/images/pie_chart_bsd/memory_size.svg)
+![Memory Size](./images/pie_chart_bsd/memory_size.svg)
 
-![Memory Size](./All/images/line_chart_bsd/memory_size.svg)
+![Memory Size](./images/line_chart_bsd/memory_size.svg)
 
 | Size  | Computers | Percent |
 |-------|-----------|---------|
@@ -1638,9 +1638,9 @@ Memory Speed
 
 Memory module speed
 
-![Memory Speed](./All/images/pie_chart_bsd/memory_speed.svg)
+![Memory Speed](./images/pie_chart_bsd/memory_speed.svg)
 
-![Memory Speed](./All/images/line_chart_bsd/memory_speed.svg)
+![Memory Speed](./images/line_chart_bsd/memory_speed.svg)
 
 | Speed   | Computers | Percent |
 |---------|-----------|---------|
@@ -1655,9 +1655,9 @@ Printer Vendor
 
 Printer device vendors
 
-![Printer Vendor](./All/images/pie_chart_bsd/printer_vendor.svg)
+![Printer Vendor](./images/pie_chart_bsd/printer_vendor.svg)
 
-![Printer Vendor](./All/images/line_chart_bsd/printer_vendor.svg)
+![Printer Vendor](./images/line_chart_bsd/printer_vendor.svg)
 
 | Vendor    | Computers | Percent |
 |-----------|-----------|---------|
@@ -1668,9 +1668,9 @@ Printer Model
 
 Printer device models
 
-![Printer Model](./All/images/pie_chart_bsd/printer_model.svg)
+![Printer Model](./images/pie_chart_bsd/printer_model.svg)
 
-![Printer Model](./All/images/line_chart_bsd/printer_model.svg)
+![Printer Model](./images/line_chart_bsd/printer_model.svg)
 
 | Model                                                                           | Computers | Percent |
 |---------------------------------------------------------------------------------|-----------|---------|
@@ -1698,9 +1698,9 @@ Camera Vendor
 
 Camera device vendors
 
-![Camera Vendor](./All/images/pie_chart_bsd/camera_vendor.svg)
+![Camera Vendor](./images/pie_chart_bsd/camera_vendor.svg)
 
-![Camera Vendor](./All/images/line_chart_bsd/camera_vendor.svg)
+![Camera Vendor](./images/line_chart_bsd/camera_vendor.svg)
 
 | Vendor    | Computers | Percent |
 |-----------|-----------|---------|
@@ -1711,9 +1711,9 @@ Camera Model
 
 Camera device models
 
-![Camera Model](./All/images/pie_chart_bsd/camera_model.svg)
+![Camera Model](./images/pie_chart_bsd/camera_model.svg)
 
-![Camera Model](./All/images/line_chart_bsd/camera_model.svg)
+![Camera Model](./images/line_chart_bsd/camera_model.svg)
 
 | Model                        | Computers | Percent |
 |------------------------------|-----------|---------|
@@ -1758,9 +1758,9 @@ Unsupported Devices
 
 Total unsupported devices on board
 
-![Unsupported Devices](./All/images/pie_chart_bsd/device_unsupported.svg)
+![Unsupported Devices](./images/pie_chart_bsd/device_unsupported.svg)
 
-![Unsupported Devices](./All/images/line_chart_bsd/device_unsupported.svg)
+![Unsupported Devices](./images/line_chart_bsd/device_unsupported.svg)
 
 | Total | Computers | Percent |
 |-------|-----------|---------|
@@ -1772,9 +1772,9 @@ Unsupported Device Types
 
 Types of unsupported devices
 
-![Unsupported Device Types](./All/images/pie_chart_bsd/device_unsupported_type.svg)
+![Unsupported Device Types](./images/pie_chart_bsd/device_unsupported_type.svg)
 
-![Unsupported Device Types](./All/images/line_chart_bsd/device_unsupported_type.svg)
+![Unsupported Device Types](./images/line_chart_bsd/device_unsupported_type.svg)
 
 | Type         | Computers | Percent |
 |--------------|-----------|---------|
